@@ -1,10 +1,10 @@
 ## 👋 Olá! Eu sou a Ana Caroline 👩‍💻
 
-🚀 Estou em transição de carreira e iniciando minha jornada em **Tecnologia e Ciência de Dados** 
-🌎 Antes de me dedicar aos estudos em Tecnologia, trabalhei com gastronomia e morei na Argentina, Chile e Itália
-🎓 Atualmente estudo **Bacharelado em TI**, **Ciência de Dados***, e ferramentas essenciais da área   
-⚙ Meu primeiro projeto está sendo o **desafio Titanic no Kaggle**, onde estou aplicando na prática tudo que venho aprendendo 
-🌱 Estou animada por finalmente estar saindo da teoria e começando a construir meu **portfólio**!
+- 🚀 Estou em transição de carreira e iniciando minha jornada em **Tecnologia e Ciência de Dados** 
+- 🌎 Antes de me dedicar aos estudos em Tecnologia, trabalhei com gastronomia e morei na Argentina, Chile e Itália
+- 🎓 Atualmente estudo **Bacharelado em TI**, **Ciência de Dados***, e ferramentas essenciais da área   
+- ⚙ Meu primeiro projeto está sendo o **desafio Titanic no Kaggle**, onde estou aplicando na prática tudo que venho aprendendo 
+- 🌱 Estou animada por finalmente estar saindo da teoria e começando a construir meu **portfólio**!
 
 ---
 
