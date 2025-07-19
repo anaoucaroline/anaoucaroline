@@ -33,7 +33,8 @@
 
 ## 🔗 Onde me encontrar
 
-[LinkedIn](https://www.linkedin.com/in/ana-caroline-rodrigues-de-almeida-716125312/)  
+[LinkedIn](https://www.linkedin.com/in/ana-caroline-rodrigues-de-almeida-716125312/) 
+
 📍 São José dos Campos - SP - Brasil  
 
 ### 🙋 Aberta a oportunidades de estágio na área de dados ou tecnologia
